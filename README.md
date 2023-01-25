@@ -25,7 +25,8 @@ res,v=np.linalg.eig(a)
 print("Eigen values are",res,"and Eigen Vectors are",v)
 '''
 ## Output:
-![ev and evec](https://user-images.githubusercontent.com/121165938/214515047-717e2db9-3e99-4b1d-bf25-0a73ed547a87.png)
+![ev and evec  1](https://user-images.githubusercontent.com/121165938/214515632-1d8830c8-2073-4768-86ea-c3c89bceba0b.png)
+
 ![eigen value and eigen vector](https://user-images.githubusercontent.com/121165938/214515122-caa66c3d-801b-49c0-8d99-97649301925d.png)
 
 ## Result:
