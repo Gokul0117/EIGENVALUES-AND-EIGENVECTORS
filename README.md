@@ -15,7 +15,7 @@ Using the np.linalg.eig(),  we get two results (first is eigenvalue and second i
 Print the eigenvalue and eigen vector using print() function. End the program
 
 ## Program:
-'''
+```
 #Program to find the eigen values and eigen vectors.
 #Developed by:Gokul J 
 #RegisterNumber:22009062
@@ -23,7 +23,7 @@ import numpy as np
 a=np.array([[2,-3,0],[2,-5,0],[0,0,3]])
 res,v=np.linalg.eig(a)
 print("Eigen values are",res,"and Eigen Vectors are",v)
-'''
+```
 ## Output:
 ![ev and evec  1](https://user-images.githubusercontent.com/121165938/214515632-1d8830c8-2073-4768-86ea-c3c89bceba0b.png)
 
